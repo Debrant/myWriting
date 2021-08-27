@@ -1,0 +1,16 @@
+baseURL = "https://www.originathan.com"
+languageCode = "en-us"
+title = "Originathan"
+theme = "publishTheme"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Chapters"
+    pre = "pen-tool"
+    url = "/chapters/"
+    weight = 2
