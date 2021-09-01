@@ -1,1 +1,15 @@
-<p class="footer text-center">Copyright (c) {{ now.Format "2006"}} Nathan Bryant</p>
+
+<nav class="pagination is-large" role="navigation" aria-label="pagination">
+	{{ if .NextPage }}
+    <a class="pagination-previous"  href="{{ .NextPage.Permalink }}">{{ .NextPage.Title | truncate 50 "..." }}</a>
+    {{end}}
+    {{ if .PrevPage }}
+  <a class="pagination-next" href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title | truncate 50 "..."}}</a>
+  {{end}}
+  <ul class="pagination-list">
+    <li><a class="pagination-link is-current" aria-label="Page 46" aria-current="page">Copyright (c) {{ now.Format "2006"}}  Nathan Bryant</a></li>
+
+
+
+  </ul>
+</nav>

@@ -2,11 +2,42 @@
 <html>
     {{- partial "head.html" . -}}
     <body>
-        {{- partial "header.html" . -}}
-        <div id="content">
-        {{- block "main" . }}{{- end }}
+
+        <div class="columns">
+        <div class="column is-1">
+          <aside class="menu">
+            <style media="screen">
+
+            </style>
+            <ul class="menu-list">
+              <li><a href="/">Home</a></li>
+              <li><a href="/chapters">Chapters</a></li>
+              	{{ if .NextPage }}
+              	<li><a class="link-reverse" href="{{ .NextPage.Permalink }}">{{ .NextPage.Title | truncate 50 "..." }}</a></li>
+              	{{ end }}
+
+              	{{ if .PrevPage }}
+              	<li><a class="link-reverse" href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title | truncate 50 "..."}}</a></li>
+              	{{ end }}
+            </ul>
+          </aside>
+
         </div>
-        {{- partial "footer.html" . -}}
-        {{- partial "script.html" . -}}
+        <div class="column is-11">
+
+              <!-- {{- partial "header.html" . -}} -->
+              <div id="content">
+              {{- block "main" . }}{{- end }}
+              </div>
+        
+          {{- partial "footer.html" . -}}
+          {{- partial "script.html" . -}}
+        </div>
+
+
+        </div>
+
+
+
     </body>
 </html>

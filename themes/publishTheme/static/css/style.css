@@ -1,4 +1,4 @@
-body {
+html {
 background: rgba(214, 204, 195, 0.7);
 
 }
@@ -7,8 +7,8 @@ h1 {
   font-family: Georgia, serif;
   font-size: 2.5em; /* 40px/16=2.5em */
   color: Purple;
-  text-align: center;
-  margin: 25px 00px 0px 0px;
+  text-align: left;
+  margin: 25px 00px 25px 0px;
 }
 h3{
   font-size: 1.875em;
@@ -18,6 +18,6 @@ p {
   font-family: Helvetica, verdana, Tahoma, sans-serif;
   font-size: 0.875em; /* 14px/16=0.875em */
   font-size: 20px;
-  margin: 5px 150px 50px 150px;
+  margin: 5px 25px 100px 25px;
 
 }
