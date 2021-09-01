@@ -6,7 +6,7 @@
       <h1>Book 1</h1>
       {{range .Pages}}
         {{if le .Weight 11}}
-          <h3><li>  <a href="{{.URL}}">{{.Title}}</a> </li></h3>
+          <h3><li>  <a href="{{.Permalink}}">{{.Title}}</a> </li></h3>
          {{end}}
       {{end}}
     </div>
@@ -15,7 +15,7 @@
       <h1>Book 2</h1>
       {{range .Pages}}
         {{if and (gt .Weight 11) (le .Weight 23)}}
-          <h3><li>  <a href="{{.URL}}">{{.Title}}</a> </li></h3>
+          <h3><li>  <a href="{{.Permalink}}">{{.Title}}</a> </li></h3>
          {{end}}
       {{end}}
     </div>
@@ -24,7 +24,7 @@
       <h1>Book 3</h1>
       {{range .Pages}}
         {{if gt .Weight 23}}
-          <h3><li>  <a href="{{.URL}}">{{.Title}}</a> </li></h3>
+          <h3><li>  <a href="{{.Permalink}}">{{.Title}}</a> </li></h3>
          {{end}}
       {{end}}
     </div>
