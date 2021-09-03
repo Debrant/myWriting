@@ -28,7 +28,7 @@ He made his way south down the bus mall planning a route to a home that felt con
 The bus stops themselves were state of the art for the time. Little two-tiered, pagoda-like roofs covered each oval building. Each mini-station is dedicated to a different area of the city. There were two such stations on the corners of every block each. Nick looked at the bright icons over each list of bus numbers as he walked up the street. A green leaf, then an orange deer.
 
 
-That's Tigard then Beaverton if memory serves. This is crazy! Where did I keep all this? Can't find the car keys, but I remember this shit. Incredible. So then I want the yellow rose. Now, let's see how late the busses run.
+_That's Tigard then Beaverton if memory serves. This is crazy! Where did I keep all this? Can't find the car keys, but I remember this shit. Incredible. So then I want the yellow rose. Now, let's see how late the busses run._
 
 
 Spotting the yellow rose ahead, he approached the shelter. Built of a chocolate brown steel and aluminum frame, the shelter was a graceful oval. The curved ends and the roof were all plexiglass. Inside were four thick butcher-block seats, two at either end. Altogether it was reminiscent of a terrarium or a diorama in a museum. A black and white TV hung near the top at one end of the roof. He stepped in to read the display.
@@ -63,7 +63,7 @@ Jack Starr was half standing in his seat, torso out the window. He had a wild gr
 
 
 
-He's drunk!
+_He's drunk!_
 
 
 
@@ -119,7 +119,7 @@ He tossed the bag down and unclipped the top before dumping the contents in fron
 
 
 
-What the hell am I doing? Trying so hard not to stand out that I'm acting like a teenager?
+_What the hell am I doing? Trying so hard not to stand out that I'm acting like a teenager?_
 
 
 He got down on one knee and began sorting the pile. He folded the clothes and stacked them into the duffle. The key was in with the toiletries. He finished putting everything back into the bag and let himself in.
@@ -132,7 +132,7 @@ The area inside was brighter, the light from the city spilling in the window tha
 
 
 
-How did they justify this? This is awful. Why don't I remember it this way?
+_How did they justify this? This is awful. Why don't I remember it this way?_
 
 
 Putting it all out of his mind, he put away his thing and crawled into the little bed. There was no keeping his feet from hanging off of the end.
@@ -142,12 +142,12 @@ Nick lay awake squinting into the un-curtained sunlight from the wall of windows
 The bed, too small sat tucked against the plywood wall that cut him off from the rest of the living room. The north wall oozed cold from whitewashed cinderblock. There was a low nightstand next to the bed and a long makeshift table at the far end of the room next to the window.
 A toybox or a chest of some homemade fashion sat between the nightstand and the desk against the wall. Several dogeared paperback books lay scattered across the top of it. Over on the nightstand set a clock and the blue Sony Walkman that brought him a little stab of nostalgia. He swung his legs out of the bed in a single motion and picked up the device. He put the headphones with their bright yellow foam pads over his ears and pressed play.
 
-Ain't nothin' but a heartache
-Tell me why-iiiiiieeeeeeiiiiiiiii
-Ain't nothin' but a mistake
-Tell me why- iiiiiieeeeeeiiiiiiiii
-I never wanna hear you say
-I want it that way
+      Ain't nothin' but a heartache
+      Tell me why-iiiiiieeeeeeiiiiiiiii
+      Ain't nothin' but a mistake
+      Tell me why- iiiiiieeeeeeiiiiiiiii
+      I never wanna hear you say
+      I want it that way
 
 Nick turned off the tape player smiling. He opened the front drawer of the nightstand to find several dozen more cassette tapes. Most of them mixed tapes with labels like Casey Kasem's top 100 of 1983, or Deep Euro-punk. A scattering of tapes with manufacturers' labels were there as well. Tears for Fears, Dead Kennedys, Pink Floyd, Supertramp, the Alan Parsons Project, The Cure and Prince, and the Revolution. Embarrassment, nostalgia, and excitement all competed for his emotions.
 Nick got dressed and left his makeshift bedroom to forage for breakfast. He was warming a pan and was about to start cooking when his younger brother, Saul made his way into the kitchen.
@@ -184,7 +184,8 @@ Nick couldn't help laughing, it felt good to laugh, he couldn't stop. He was sti
 "I did?" Saul looked confused.
 
 "You did, trust me." Nick looked at his mother her long dark hair shiny and black around her smooth unlined face.
-Jesus ya big sap, get a grip already. You can't break down blubbering every time we meet somebody we haven't seen in a couple of decades.
+
+_Jesus ya big sap, get a grip already. You can't break down blubbering every time we meet somebody we haven't seen in a couple of decades._
 
 "What's with the stupid grin, mom Nick is acting weird."
 
@@ -224,7 +225,8 @@ Everyone had a good time, even Nick. It was good to see his mother and his broth
 The next day Jack was gone again in the morning. Nick woke to the sound of Saturday morning cartoons blaring in the other room. Upon arriving in the living room Saul proudly informed him that Christmas was three days away.
 He made Saul breakfast while Gargamel chased the Smurfs in the background. When he was sure that things were good enough he scribbled a quick note to his mother.
 
-Mom,
-I'm going to swing by school to see if I can get some things out of my locker, and then I'm going down to the Market Plaza. I'm going to ask Ali if I can have my job back. I would like to start working on the weekends again. I fed Saul should be back by 2 PM.
-Love,
-Nick
+    Mom,
+    I'm going to swing by school to see if I can get some things out of my locker, and then I'm going down to the Market Plaza.
+    I'm going to ask Ali if I can have my job back. I would like to start working on the weekends again. I fed Saul should be back by 2 PM.
+    Love,
+    Nick

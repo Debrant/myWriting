@@ -34,7 +34,6 @@ Jack had kept the laddies laughing nonstop while he laid on the charm. Sonny gla
 "Oh my god!" Sandra said squeezing his thigh, "who doesn't?" They were all laughing as they made their way out of the bar.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------
 
 Sunny could hear a shower running somewhere distant. He opened his eyes to a blinding wash of yellows and whites. The room was spinning like an amusement park ride. His eyes felt like they were full of ground glass. Fighting off an aggressive bout of nausea, he fumbled around the floor until he found his pants.
 He pulled them on and sat for a minute at the edge of the low bed. The room was sunlit, with large bay windows facing out to a street several stories below. The bathroom where the shower was still running was one of only two doors. He stood up and dug in his pocket for his pager. There were two messages from the same number, the first at 7:15 am and the second marked urgent at 10:30. "Fuck," he mumbled trying to find the rest of his clothes. He was pulling on his shirt when the blonde, Cassie? No, Carrie, came into the room wrapped in a towel.
@@ -43,7 +42,8 @@ He pulled them on and sat for a minute at the edge of the low bed. The room was 
 "Um, morning. Yeah, I'm late to work."
 
 "At the Agency?" She purred with a playful hint of mockery.
-Fuck fuck fuck fuck! Why do I do this shit! How many people saw me with her, oh shit her friend must have left, does she know too? So much for playing it under the radar, dickhead.
+
+_Fuck fuck fuck fuck! Why do I do this shit! How many people saw me with her, oh shit her friend must have left, does she know too? So much for playing it under the radar, dickhead._
 
 "Anyway, don't look so spooked, I'm not talking. Seriously though, you can't go anywhere looking like that." She walked by, giving him a peck on the cheek. "Or smelling like that," she giggled. "Go take a shower."
 "I need a change of clothes anyway, so I will shower at the hotel, but thanks." Pera made for the door, she caught his arm and pulled him back.
@@ -67,7 +67,8 @@ Pera made his way to a payphone and dialed the number on the pager.
 "Bout an hour, got to take care of a couple things to do first."
 "Hurry up." The line went dead.
 
-Jesus, black bastard is so fucking uptight! Thinks he's running shit. Why did I get stuck with him?
+_Jesus, black bastard is so fucking uptight! Thinks he's running shit. Why did I get stuck with him?_
+
 He was in a foul mood, still near vomiting, head pounding, he called a cab. 15 minutes later he was showing in his room at the Fith Avenue Suites on the edge of the downtown area.
 
 He dressed and made his way on foot to a bar that the man at the front desk had suggested. The Cheerful Tortoise dominated the corner of the block at 6th and College Street. It sat looking like an over-sized Mexican restaurant. Inside it was dark and Pera breathed a sigh of relief, taking off his aviators.

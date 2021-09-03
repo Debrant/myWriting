@@ -7,11 +7,16 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 6
 ---
 Nick woke to the sound of howling wind. The cabin creaked and flexed like an old boat on the water. He rolled over to look at the glowing red digits of the clock on the nightstand. 5:22, shifting to lay on his back toying with the idea of returning to sleep.
+
 A few lazy stretches later Nick tossed the blankets aside and sprung out of bed. After taking a moment to dress he stepped into the hall. Both of the dogs were sitting facing the door.
 The shepherd was whining softly. Pumpkin turned around to greet him, the little dog prancing a little circle until he picked her up.
+
 "It's just a storm," nick soothed the worried animal stroking its head. Pepper barked once, rising into a ready stance as the door opened to admit a small avalanche of snow. Jeannie stepped inside and turned to force the door shut behind her. She had a lean into it hard.
+
 "Wow, looks bad out there, is everything OK?"
+
 She gave a little start, "oh, I didn't see you there." She was removing several layers of coats and hats, "had to fire up the jenny and check on the horses. Danny is in the garage. He's moving in the car and the three-wheeler."
+
 "Do you need any help?"
 
 "No, we're okey-dokey. This kind of thing happens, we do live on the side of a mountain ya know. Get a couple of these every year. You boys won't get to go on your little outing though."
@@ -35,10 +40,11 @@ Danny came in letting another cold front into the room. Nick sat stirring even m
 
 "Doesn't look good for a recon today." The relief on Danny's face was evident and reflected Nick's own.
 
-What am I not remembering? And why are we both so relieved not to go look for this? Whatever this is.
+_What am I not remembering? And why are we both so relieved not to go look for this? Whatever this is._
+
 The storm eased off from blizzard conditions by noon and then to a light dusting by early evening. Jeannie left to take the dogs out as the phone rang. The loud metallic bell making Nick jump.
 
-Gods, how long has it been since I heard a landline ring?
+_Gods, how long has it been since I heard a landline ring?_
 
 
 Danny took the call.
@@ -75,7 +81,6 @@ Nick could feel the tears welling up in his eyes and was thankful that Danny pre
 
 "She wants me to take a greyhound." It was a statement. The hurt and the shame of that bus ride felt like yesterday. A single fat tear rolled down his cheek.
 
-------------------------------------------------------------------------------------------
 
 By morning the skies were clear and the sun was shining. Everything was covered in a thick white blanket of snow. The land was silent, which suited Nick fine. He slogged through the shin-high powder to the garage, taking the snow shovel.
 
@@ -87,7 +92,7 @@ The effort of work had cleared his mind and dampened his melancholy. The thought
 
 His father's drunken outbursts. The hours-long fights his parents would have. He and his brother retreating into any safe place they could find. The sobbing apologies dad would offer on mornings after. High school.
 
-Gods! High school was bad enough the first time!
+_Gods! High school was bad enough the first time!_
 
 Nick often wondered what made so many people glorify the high school experience. He could only remember a handful of people from that time. How he could reintegrate into freshman year halfway through without blowing everything. The beginning of that year was a blur. He could only remember four teachers and perhaps two of his peers that weren't inside his circle of friends.
 
@@ -118,7 +123,7 @@ These are too direct, too parallel with each other to be a redneck outing. milit
 
 He did a circuit around the perimeter counting three sets of tracks. The two smaller ones looked like standard off-road tires.
 
-A jeep maybe, or maybe one of those old Ford Broncos that sheriff's and park rangers use.
+_A jeep maybe, or maybe one of those old Ford Broncos that sheriff's and park rangers use._
 
 The tracks came in from the southwest to cross in a straight line west to east. Then turned to retreat the way they came. The biggest set curved around the center of the bowl. Pepper was busy digging and barking around the perimeter of a square patch of turned earth. From his vantage point near the top, it looked like the beginning of a sizable vegetable garden.
 
@@ -158,11 +163,11 @@ Ten minutes later he pulled into the driveway to see a green and white Ford Bron
 
 On the way by he stopped to examine the tires on the truck. The vehicle looked recently washed. Nick found himself longing for his smartphone.
 
-It would be nice to have a pocket-sized high rez camera right now. But I don't miss the damn thing otherwise.
+_It would be nice to have a pocket-sized high rez camera right now. But I don't miss the damn thing otherwise._
 
 It proved impossible to slip into the cabin without notice. Both dogs began dancing and barking as soon as they saw the dark-haired man inside.
 
-They clearly know him, so there's no reason to think the connection is me just yet. Act natural.
+_They clearly know him, so there's no reason to think the connection is me just yet. Act natural._
 
 "Hello sir, I'm Nickolas, Danny is my grand..."
 
@@ -172,7 +177,7 @@ C.W. was an inch or two taller than Nick. The man appeared friendly. Though he l
 
 "Nick, nice to meet you, son, Danny and I go back a ways."
 
-With that firm handshake and easy smile, he knows how to put people at ease. Smooth. Seems authentic enough. Kind of reminds me of a big Dean Martin. Goofy, in a you should get to know me kind of way. I kinda like this guy.
+_With that firm handshake and easy smile, he knows how to put people at ease. Smooth. Seems authentic enough. Kind of reminds me of a big Dean Martin. Goofy, in a you should get to know me kind of way. I kinda like this guy._
 
 "Danny, Jeanie, thanks for your time now. I still have three of your neighbors to notify." He moved around Nick toward the door glancing down. "We heard the three-wheeler coming down the drive. Mind if I ask where you were coming from?"
 

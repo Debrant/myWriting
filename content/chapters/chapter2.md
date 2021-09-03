@@ -9,12 +9,14 @@ weight: 3
 ---
 
 Something was terribly wrong.
+
 Nick’s head was imploding in a massive bear trap of pain. Waves of nausea threatened to spill his stomach. Vertigo tore away all references. He screamed, surprised to hear his voice. "This is far more violent than I thought it would be," rolling to his side he heaved the contents of his stomach. He practiced his breathing to try to stave off the panic. "This can't be how I go," he grimaced.
 It wasn't.
 
 The pain was receding. He continued breathing, eyes screwed shut blocking out everything else. A dog, an unmistakable dog nose, and tiny black tongue were licking around the hands that covered his face. The little animal radiated excitement.
 
-Who would let a dog into an ICU?
+_Who would let a dog into an ICU?_
+
 It was now licking his ear, and it tickled. The thought was shocking, but he began to laugh anyway. He tried to roll away from the little beast, amazed at how easy it was. The dog followed onto his chest. He opened his eyes as it occurred to him that he was moving his arms. He shouldn't be able to do that, much less rollover or fend off a licking attack from a schnauzer?
 The little black face was inches from his. He could sense the anxiety from the little creature as a stepped up and down on his chest. He was outside. On the ground. In a forest. He knew then that he had died.
 
@@ -36,7 +38,7 @@ They had built the cabin around the old RV they had driven up from California. J
 Nick began to run through the orchard in earnest. The old mule should be in the gully that ran between the two properties. The apples would roll down to the side of the creek. The lazy mule would spend most of his days down there. Eating, and sleeping with as little movement as possible. Arriving on the other side of the apple trees out of breath, Nick stared at the absence of a mule. He reprimanded himself for getting carried away. He turned back to wait for Pumpkin to catch up. He lifted the little dog into his arms asking, "well the two of you are here, was it that outrageous to think it was then?"
 Ten minutes later he heard the braying of a mule. The wood-smoke visible through the trees signaled he was close.
 
-Of course, there aren't any apples on the ground in winter.
+_Of course, there aren't any apples on the ground in winter._
 
 Pepper raced off toward the cabin and he set down pumpkin who happily followed the larger dog. Nick continued after them.
 
@@ -45,7 +47,7 @@ As Nickolas trunched up the path to the cabin he heard the door open. He looked 
 "Well don't just stand there, get in and get warm," She started to turn away and then paused. "Are you okay hun? Have you been crying?"
 Nick stood staring, mouth agape. Jeanie was young! Not yet fifty. He rifled his memory with a smattering of calculus to arrive at the conclusion that she was less than fifty. It hadn't occurred to him that his grandfather had married a woman more than twenty years his junior.
 
-How do I do this? What is this! Am I fourteen again? How do I talk like a teenager, what the fuck!
+_How do I do this? What is this! Am I fourteen again? How do I talk like a teenager, what the fuck!_
 
 His hands were shaking and his voice cracked as he answered. "everything is fine Jeanie, just lost track of time." The rest of the evening was a blur of overwhelming emotions. Memories, sixty years old, superimposed themselves in real-time. The next day he and his grandfather were set to clear a small patch of land near the bend in the drive. It was to be for a new garage. Danny was a classic car enthusiast. The story was, that he needed the extra space to rebuild his newest project car.
 

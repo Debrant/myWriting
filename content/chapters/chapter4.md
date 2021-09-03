@@ -24,7 +24,7 @@ Nick and his younger brother, Saul, had come to watch the Super Bowl at "dad's h
 
 The emotions of that moment were long forgotten, having smothered by what would become one of the most famous Super Bowls in history. The Bears' were a pop culture phenomenon. The Super Bowl Shuffle played for weeks leading up to the game. Little biopics about each of the Bears' starting players littered throughout the program. Sportscasters always play to history. This was an event that warranted the extra commentary.
 
-As Nick dried himself off he managed to drag himself forward, backward?? He had difficulty remembering all the details of that game. He could recall almost nothing about the 1984 season. He knew that they would win the first round of the playoffs. They then lost to San Francisco who would go on to win the championship that year. But even that was hazy.
+As Nick dried himself off he managed to drag himself forward, _backward??_ He had difficulty remembering all the details of that game. He could recall almost nothing about the 1984 season. He knew that they would win the first round of the playoffs. They then lost to San Francisco who would go on to win the championship that year. But even that was hazy.
 
 He would be listening for details that would confirm his memories. If events progressed in the same manner it would be easy for a betting man to make a small fortune. If he could figure out a way to place the bets and collect them as a minor. He could be all but set for life before he turned 18.
 He finished dressing and made his way back out to the living and dining section of the cabin. The galley kitchen sat inside the footprint of the old trailer at the far end. The TV area at the other, two low recliners book-ended a plush loveseat and sat facing the television. A large walnut coffee table straddling the transition between the trailer and cabin. The Television sat alone at the edge of the cabin space.
@@ -48,7 +48,7 @@ They sat in a semi-awkward silence for the first 20 minutes of the game. As the 
 
 "You really showed a lot of talent out here. On this trip I mean."
 
-He's trying to work his way to something and having trouble.
+_He's trying to work his way to something and having trouble._
 
 "Thanks."
 
@@ -56,14 +56,15 @@ While curious about Danny, he couldn't shake the implications of his earlier rea
 
 At times he felt like an alien entity shared his mind. Sometimes he was the alien. Watching from a remote position as his body did things that should be no longer possible. He had no explanation for how any of it could happen.
 
-If I allow that "souls" are a thing in reality. Then if a soul returned its younger mind, how could it then have future memories? Memories are physical and chemical chains inside the brain?
+_If I allow that "souls" are a thing in reality. Then if a soul returned its younger mind, how could it then have future memories? Memories are physical and chemical chains inside the brain?_
 
 It was a mystery. He had no choice but to accept ignorance and trust in the cornerstones of logic, patience, and reason. The ability to continue working in a state of ignorance had always been a strength. Faith that he would in time connect the dots had been a cornerstone to some of his greatest successes.
 
 For the time being, he needed autonomy, and for that, his best bet was betting. He needed proof! His frustration was only increasing as it became clear that the 1984 NFL season held no insights for him. This game was revealing nothing at all.
 
 Nick sighed, reaching forward to refill his plate.
-The hunger!
+
+_The hunger!_
 
 Deciding to focus on the moment he reasoned that if riled Danny up a bit the man would get to the point. "Well I'm glad you noticed me doing all the work," he tossed back.
 
@@ -91,13 +92,13 @@ It was Danny's turn to look confused.
 "Plus my family was Welsh and that old bastard always said that Welshmen were worse than the Irish." Danny flushed, "shouldn't have said that."
 Nick watched his grandfather with a new feeling of admiration.
 
-He won't slander the man even now.
+_He won't slander the man even now._
 
 "Anyway, you weren't supposed to hear that comment," Nick confessed with a smirk. "I would ask you to keep your ears off of conversations to myself. They are private."
 
 "Jokes aside, I don't know how I could ever explain what I was thinking but I wasn't judging." They both paused for a few heartbeats looking at each other.
 
-We need to move past this. How can I explain this to him? Those motions, that habit, like watching a mirror. Hell, I even drink the same damn scotch. I don't remember him drinking whiskey. Maybe I saw it on a shelf or maybe even heard the cubes clinking without knowing it. I guess we can call it inherited good taste.
+_We need to move past this. How can I explain this to him? Those motions, that habit, like watching a mirror. Hell, I even drink the same damn scotch. I don't remember him drinking whiskey. Maybe I saw it on a shelf or maybe even heard the cubes clinking without knowing it. I guess we can call it inherited good taste._
 
 Danny was staring at Nick with an arched eyebrow, "a penny for your thoughts kid."
 
@@ -111,7 +112,8 @@ Amusement tightened all Danny's features, "no do enlighten me with your worldly 
 "Touché, score one for the Welshman, it's something my dad talks about a lot, booze"
 
 The light of amusement and humor was leaving Danny's eyes. Now a chasm was forming between them. Nick imagined that Danny knew his deception.
-How can I explain it to him, it doesn't make sense to me.
+
+_How can I explain it to him, it doesn't make sense to me._
 
 "Nick, what happened on your little adventure with the dogs?"
 
@@ -151,8 +153,10 @@ He let the confession hang there in the air for a minute. To his surprise, Danny
 "I remembered this trip, this thing that we did with the garage, it meant so much to me. That's why I worked hard to make it better this time. To say thank you. That's why I said, who would've thought. Because I saw myself doing exactly the same repeatedly. Dropping ice cubes in a glass, swirling scotch over them as you did. Gave me a déjà vu when I saw you doing it. Made it all feel so real again."
 
 Danny took a drink of his scotch and didn't say anything for a good stretch. "That is quite a story. One that I'm not keen to dismiss given everything that we've talked about and I've seen you do over the last two weeks. I can't take it on faith however so, how might we settle this in a manner that would allow satisfaction?" He continued his reasoning, "There's a point I like to get out right in front when confronting an argument. And that's what,"
+
 Nick interjected, "evidence are you willing to accept that will change your mind? Yes, I've often said that as well, let me think on this."
- Did I  take that from him as well? How much of who I became, was me trying to live up to how I remembered him?
+
+_Did I  take that from him as well? How much of who I became, was me trying to live up to how I remembered him?_
 
 He sat back gesturing in the air, "There's math, physics, there's history. I think though that the most likely way that I can convince you is through shared experiences. Or knowledge of shared spaces if that makes sense."
 
